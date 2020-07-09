@@ -1,3 +1,0 @@
-/print ("Hi")
-/print("wellcome")
-/print ("oh hi")
